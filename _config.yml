@@ -1,11 +1,7 @@
 # Site wide configuration
 
-title: Site Title
 locale: en_US
-description: Describe your website here.
-logo:
 search: true
-url: 
 
 
 # Jekyll configuration
