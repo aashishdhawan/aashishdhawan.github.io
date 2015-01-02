@@ -53,7 +53,23 @@ Another important aspect of decentralized systems are that they are robust and m
 
  > The main technological breakthrough accomplished by Bitcoin is solving the double spending problem in distributed financial database.
 
- 
+ ## Open Source
+
+ ## Public Asset Ledger
+
+ * The heart of Bitcoin is a distributed database that holds a copy of common asset ledge. Every node retains a copy of this database.
+ * All the information following through Bitcoin network is public. This is like making everyone's bank statement public with their names removed.
+
+## It is not only a currency, It is a technology.
+
+> Bitcoin is an API (Application Programming Interface) for money and bitcoin the currency is just the first application.
+
+* Consider a use case when a computer program can open an account in a bank. This is possible using Bitcoin. Consider a autonomous agent (computer program) in cloud which charges its customers by allowing them space in cloud storage or similar technologies charging bitcoins for its service.
+
+
+
+
+
 
 
 
