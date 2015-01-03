@@ -7,12 +7,13 @@ comments: true
 tags: [Bitcoin]
 ---
 
-Last week i came across a book [**Understanding Bitcoin** by Pedro Franco](). This post shares that knowledge and is intended for those people who want to understand Bitcoin better.
+Last week i came across a book [**Understanding Bitcoin** by Pedro Franco](http://www.amazon.in/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168). This post shares that knowledge and is intended for those people who want to understand Bitcoin better.
 
 ## 1. Prologue
 
 Here is some interesting conversation between two guys.
 
+`
 A: What is Bitcoin?
 B: A digital Currency.
 A: And who controls it?
@@ -28,6 +29,7 @@ B: Easy boy... you can't mint your own Bitcoins but you can invent your own curr
 A: But what value Bitcoins will have when anybody can create his own currency?
 B: Currencies have values because of social convention, consensual agreement (or hallucination). Same goes for Euros, Dollars and Bitcoin.
 A: Well.. Now you have all my attention. Please tell me more :)
+`
 
 ### What Bitcoin is not 
 
@@ -88,6 +90,14 @@ Another important aspect of decentralized systems are that they are robust and m
 > Source and compiled binaries can be downloaded from [**bitcoin.org/en/download**](bitcoin.org/en/download)
 
 ### Wallets 
+
+Bitcoin wallets is a software that helps a user manage her funds, create new addresses, holds user's private keys, create transactions that are sent to network, collect incoming and outgoing transactions, to show the balance of available funds, aggregate many accounts if user has more than one account.
+
+> Always use open source implementation of bitcoin wallet. Open source implementation reduces risk of hidden backdoors inside code.
+
+
+
+
 
 
 
