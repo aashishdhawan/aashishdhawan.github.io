@@ -3,7 +3,7 @@ layout: post
 title: "Demystifying Bitcoin"
 categories: blog
 share: true
-comments: true
+comment: true
 tags: [Bitcoin]
 ---
 
@@ -13,7 +13,8 @@ Last week i came across a book [**Understanding Bitcoin** by Pedro Franco](http:
 
 Here is some interesting conversation between two guys.
 
-`
+{% highlight java %}
+
 A: What is Bitcoin?
 B: A digital Currency.
 A: And who controls it?
@@ -29,7 +30,8 @@ B: Easy boy... you can't mint your own Bitcoins but you can invent your own curr
 A: But what value Bitcoins will have when anybody can create his own currency?
 B: Currencies have values because of social convention, consensual agreement (or hallucination). Same goes for Euros, Dollars and Bitcoin.
 A: Well.. Now you have all my attention. Please tell me more :)
-`
+
+{% endhighlight %}
 
 ### What Bitcoin is not 
 
@@ -55,9 +57,9 @@ Another important aspect of decentralized systems are that they are robust and m
 
  > The main technological breakthrough accomplished by Bitcoin is solving the double spending problem in distributed financial database.
 
- ### Open Source
+### Open Source
 
- ### Public Asset Ledger
+### Public Asset Ledger
 
  * The heart of Bitcoin is a distributed database that holds a copy of common asset ledge. Every node retains a copy of this database.
  * All the information following through Bitcoin network is public. This is like making everyone's bank statement public with their names removed.
@@ -83,11 +85,11 @@ Another important aspect of decentralized systems are that they are robust and m
 * The block of transactions are recorded one after other in a chain of blocks, hence the name **blockChain**.
 * Block are linked to create a record history of transactions that can not be altered.
 * Link between blocks is a cryptographic link that cannot be forged unless attacker has vast computational power.
-* asides from blockchain, nodes keep one additional database called Unspent Transaction Output Cache (UTXO) which is a ledger that records the funds available for every address.
+* Apart from blockchain, nodes keep one additional database called Unspent Transaction Output Cache (UTXO) which is a ledger that records the funds available for every address.
 * The pace of new bitcoins issuances is halved every four years and it is estimated that total number of bitcoins will reach roughly 21 millions.
 * A attacker needs vast amount of computational power to crack bockchain.
 
-> Source and compiled binaries can be downloaded from [**bitcoin.org/en/download**](bitcoin.org/en/download)
+> Source and compiled binaries can be downloaded from [**bitcoin.org/en/download**](https://bitcoin.org/en/download)
 
 ### Wallets 
 
