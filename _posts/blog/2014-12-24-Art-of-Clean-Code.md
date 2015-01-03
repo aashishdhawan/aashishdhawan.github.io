@@ -7,7 +7,7 @@ comments: true
 
 ---
 
-Last week i came across a book [**Clean Code** by Robert C. Martin](). This amazing book illustrates the art of writing beautiful and clean code. This post shares what i learned from this great piece of work.
+Last week i came across a book [**Clean Code** by Robert C. Martin](http://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=sr_1_1?ie=UTF8&qid=1420210284&sr=8-1&keywords=clean+code). This amazing book illustrates the art of writing beautiful and clean code. This post shares what i learned from this great piece of work.
 
 Almost every experienced programmer understands how important a well written code is but what about starters? Is there any way for them to tell which code is good or which one is badly written. Is there a unit to measure that? Yes !!!
 
