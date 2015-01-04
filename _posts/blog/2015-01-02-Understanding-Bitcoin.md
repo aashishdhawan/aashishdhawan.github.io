@@ -97,6 +97,49 @@ Bitcoin wallets is a software that helps a user manage her funds, create new add
 
 > Always use open source implementation of bitcoin wallet. Open source implementation reduces risk of hidden backdoors inside code.
 
+## 3. Bitcoin Economics
+
+### Pros and Cons of Bitcoin as Medium of Exchange 
+
+* Bitcoin users are **not at risk of security breaches** as long as they keep their private key safe but critics argue that web wallets and exchanges are equally prone to security breaches.
+* Bitcoin's transaction **fees are lower** than credit cards' fees.
+* Merchants using Bitcoin are **protected from charge-back fraud**, i.e customer looking for a retraction of payment when goods have been delivered.
+* Bitcoin transfers are almost **instantaneous** compared to bank transfers which may take hours or days. However payment methods, such as credit card have almost similar transfer time as Bitcoin.
+* No base fees are collected using Bitcoin unlike credit cards which could enable micro-payments.
+* Bitcoin or sister technologies can enable ** transfer of any digital assets** apart from being an currency.
+* Bitcoin’s payments can either be more anonymous or less anonymous than traditional payment methods. Increased anonymity comes from the use of pseudonyms. Decreased privacy comes from the fact that if an attacker could figure out the address corresponding to a user, then the attacker could have access to the user’s complete financial information.
+* Bitcoin is **illiquid** as compared to fiat currencies.
+* Bitcoin **transactions do not offer a credit option**.
+* Bitcoin could face **scalability pressure** is its use is generalized.
+
+> It is believed that most of bitcoins are possessed by early adopters in dormant accounts as Investment.
+
+### Bitcoin as Investment 
+
+> The risk / reward profile of investing in Bitcoin resembles an investment in high risk startup more than an investment in stable store value.
+
+AS with early stage startups, there is some probability that Bitcoin will grow to capture a significant market share of payment market and there is some probability that it will fail and value of investment will go to zero.
+
+Some possible scenarios under which Bitcoin may fail:
+
+* A serious security flaw is found which leads to massive hacking and therefore undermining trust in Bitcoin.
+* A competing technology like alt-coin or meta-coin or some other payment platform from some other big companies replaces it.
+* Bitcoin has no value in third world where electricity and network connectivity is still a problem.
+
+### Pros
+
+* Bitcoin avoids **confiscation, capital controls or disproportionate taxation**.
+* There are **no storage costs**.
+* Bitcoins are **easy to transport**.
+* Bitcoin uses **cryptographic security.**
+* Bitcoin provides **automatic record keeping.**
+* Bitcoin is **deflationary**.
+
+
+
+
+
+
 
 
 
