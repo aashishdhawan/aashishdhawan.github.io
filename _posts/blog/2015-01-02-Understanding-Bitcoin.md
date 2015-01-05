@@ -135,6 +135,29 @@ Some possible scenarios under which Bitcoin may fail:
 * Bitcoin provides **automatic record keeping.**
 * Bitcoin is **deflationary**.
 
+### Cons 
+
+* Bitcoin is open source therefore it can be replicated easily and legally thereby creating a competition in many cryptocurrencies.
+* Critics argue that Bitcoin cannot be used as a store of value because of its volatility.
+* There is no control over the money supply. 
+* Cryptocurrencies do not have legal tender status.
+* Governments could ban the use of cryptocurrencies.
+* Bitcoins have no physical backing.
+* In contrast to bank deposits, there is no deposit insurance for Bitcoin users.
+
+### Deflation 
+
+* The path of monetary supply of new bitcoins is programmed into Bitcoin’s source code.The maximum number of bitcoins issued will eventually reach approximately 21 million. This fixed money supply makes it deflationary.
+* Furthermore, bitcoins are withdrawn from circulation due to their owners losing the private keys. As of the time of writing, an estimated 4% of bitcoins in circulation have been lost.
+
+## Bitcoin Business Applications
+
+* Money transfer
+* Bitcoin Exchanges
+* Web Wallets
+* Mining
+* Bitcoin ATMs
+
 
 
 
