@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demystifying Bitcoin"
+title: "Demystifying Bitcoin (PART 1 - Introduction)"
 categories: blog
 share: true
 comment: true
