@@ -33,7 +33,7 @@ public List<int[]> getThem() {
  List<int[]> list1 = new ArrayList<int[]>();
  for (int[] x : theList)
    if (x[0] == 4) list1.add(x);
-   return list1; 
+   return list1;
 }
 
 // Example of good naming practice.
@@ -53,20 +53,20 @@ private Date mmddyyyy; // Avoid this kind of naming convention
 
 * Better to use names which are easier to search using IDE search feature.
 * Try to stick to Nouns while naming variables.
-* Don't use pun or be cute. 
+* Don't use pun or be cute.
 * Its better to use Computer Science terms, algorithmic terms, pattern names, math terms etc.
 
 {% highlight java %}
 
-// Notice that each of following function starts with 'get'. 
+// Notice that each of following function starts with 'get'.
 //You can use 'fetch' or 'retrieve', but try to use single word and make method names consistent.
-String getParentName(int studentId){	
+String getParentName(int studentId){
 }
 
-String getMotherName(int studentId){	
+String getMotherName(int studentId){
 }
 
-String getFatherName(int studentId){	
+String getFatherName(int studentId){
 }
 {% endhighlight %}
 
@@ -86,11 +86,11 @@ Money calculatePay(Employee e) throws InvalidEmployeeType {
   case COMMISSIONED:
 	return calculateCommissionedPay(e);
   case HOURLY:
-	return calculateHourlyPay(e); 
+	return calculateHourlyPay(e);
   case SALARIED:
 	return calculateSalariedPay(e);
   default:
-	throw new InvalidEmployeeType(e.type); 
+	throw new InvalidEmployeeType(e.type);
  }
 }
 {% endhighlight %}
@@ -98,7 +98,7 @@ Money calculatePay(Employee e) throws InvalidEmployeeType {
 * Never violate Single Responsibility Principal (SRP).
 * Use descriptive names. Do not afraid to use lengthy names as long as it is meaningful.
 * Function name should reflect value it is returning
-* If number of argument in function are greater than three, rethink. 
+* If number of argument in function are greater than three, rethink.
 * try-catch-finally statement makes function ugly. Do not mix logic and error handling part.
 * Keep only one line in catch and finally block.
 * Try to use polymorphism  instead of switch or if-else statements where ever you can.
@@ -106,9 +106,9 @@ Money calculatePay(Employee e) throws InvalidEmployeeType {
 {% highlight java %}
 
 // Keep Error and logic part separate
-public void delete(Page page){ 
+public void delete(Page page){
  try{
-  deletePageAndAllReferences(page); 
+  deletePageAndAllReferences(page);
  }catch (Exception e){
   logError(e);
  }
@@ -116,11 +116,11 @@ public void delete(Page page){
 
 private void deletePageAndAllReferences(Page page) throws Exception{
  deletePage(page);
- registry.deleteReference(page.name); 
+ registry.deleteReference(page.name);
  configKeys.deleteKey(page.name.makeKey());
 }
 
-private void logError(Exception e){ 
+private void logError(Exception e){
  logger.log(e.getMessage());
 }
 {% endhighlight %}
@@ -141,7 +141,7 @@ private void logError(Exception e){
 
 // Examples when comments become useful.
 
-//1. Legal comment 
+//1. Legal comment
 
 //
 //  AppDelegate.m
@@ -153,15 +153,15 @@ private void logError(Exception e){
 
 //2. Comment when they improve code readability
 
-// format matched kk:mm:ss EEE, MMM dd, yyyy 
+// format matched kk:mm:ss EEE, MMM dd, yyyy
 Pattern timeMatcher = Pattern.compile(
 "\\d*:\\d*:\\d* \\w*, \\w* \\d*, \\d*");
 
-//3. Clarification of some logic. 
+//3. Clarification of some logic.
 
 assertTrue(a.compareTo(a) == 0);     // a == a
 assertTrue(a.compareTo(b) != 0);     // a != b
-assertTrue(ab.compareTo(ab) == 0);  // ab == ab 
+assertTrue(ab.compareTo(ab) == 0);  // ab == ab
 
 //4. Expressing warning
 
@@ -189,16 +189,16 @@ public static SimpleDateFormat makeStandardHttpDateFormat() {
 
 private void startSending() {
  try {
-   doSending(); 
+   doSending();
  } catch(SocketException e) {
  // normal. someone stopped the request.
  } catch(Exception e) {
    try {
    response.add(ErrorResponder.makeExceptionString(e));
-   response.closeAll(); 
+   response.closeAll();
    } catch(Exception e1) {
       //Give me a break!
-   } 
+   }
  }
 }
 
@@ -216,9 +216,9 @@ private void startSending() {
 public void addCD(String title, String author, int tracks, int durationInMinutes) {
  CD cd = new CD();
  cd.title = title;
- cd.author = author; 
- cd.tracks = tracks; 
- cd.duration = duration; 
+ cd.author = author;
+ cd.tracks = tracks;
+ cd.duration = duration;
  cdList.add(cd);
 }
 
@@ -234,17 +234,17 @@ private int dayOfMonth;
 /**
 * Returns the day of the month. *
 * @return the day of the month. */
-public int getDayOfMonth() { 
+public int getDayOfMonth() {
  return dayOfMonth;
 }
 
-/** The name. */ 
+/** The name. */
 private String name;
-/** The version. */ 
+/** The version. */
 private String version;
-/** The licenceName. */ 
+/** The licenceName. */
 private String licenceName;
-/** The version. */ 
+/** The version. */
 private String info;
 
 // Notice cut and paste error in comment. This is a general problem.
@@ -260,7 +260,7 @@ private String info;
 * When working in a team make sure all team members agree to common set of formatting rules.
 * Use tool which can automatically detect formatting errors.
 
-### 5.1 Horizontal Formatting 
+### 5.1 Horizontal Formatting
 
 * Lines should not be too long so that you have to scroll.
 * Proper indentation is necessary.
@@ -284,7 +284,7 @@ private String info;
 ## 7. Error Handling.
 
 * Code in catch-finally body should be minimum. Create a function and use that in catch-finally body.
-* Error message should be informative. It must define error clearly Network failure, Device failure or Programming error. 
+* Error message should be informative. It must define error clearly Network failure, Device failure or Programming error.
 * Do not mix business logic and error code.
 * Avoid passing null as parameter in functions.
 * Avoid returning null from function.
@@ -313,14 +313,14 @@ private String info;
 ## 9. Classes.
 
 * Define variable at top in a class.
-* Use Encapsulation effectively. 
+* Use Encapsulation effectively.
 * Classes should be small. Functions can be kept small by limiting number of lines while classes can be kept small by limiting responsibility.
 * Class name should reflect its responsibility.
 * Always follow Single Responsibility principal (SRP).
 * Minimize coupling and dependencies between classes.
 * Minimize entry points.
 
-## 10. Code refactoring 
+## 10. Code refactoring
 
 * Eliminate duplication.
 * Increase code expressiveness.
@@ -328,43 +328,3 @@ private String info;
 * Comments should be up to date.
 * Code should pass all tests.
 * Break too long method or classes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
