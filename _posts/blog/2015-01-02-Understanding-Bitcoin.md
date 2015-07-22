@@ -22,7 +22,7 @@ B: Nobody.
 A: What? There must be somebody controlling it.
 B: Nope. It is an algorithm.
 A: Now you are confusing me. Tell me is it a currency or algorithm?
-B: Both. 
+B: Both.
 A: OK then, who controls the Algorithm?
 B: Nobody. It is open source.
 A: Ahh..open source. Then i can make my own Bitcoins, right?. I'll become Bill Gates of Digital world.
@@ -33,27 +33,27 @@ A: Well.. Now you have all my attention. Please tell me more :)
 
 {% endhighlight %}
 
-### What Bitcoin is not 
+### What Bitcoin is not
 
 * A Currency issued by an institution
-* A Ponzi Scheme 
-* A physical memory 
+* A Ponzi Scheme
+* A physical memory
 * A currency backed by silver / gold
 
-### What Bitcoin is 
+### What Bitcoin is
 
 * An idea / Algorithm
-* An open source project 
+* An open source project
 * A distributed peer-to-peer digital currency.
 * A distributed transaction database.
 
-### Decentralized 
+### Decentralized
 
 Most currencies like Euro and Dollar are Fiat currencies controlled by government or semi-government institutes like banks while Bitcoin is based on peer-to-peer network of computers running the software. These computers are called nodes.
 
 Bitcoin's decentralized nature contrasts to the structure of fiat currencies. Central banks make money decisions, regulate money flowing in market thereby influencing inflation. Control in peer-to-peer network is more subtle because these changes have to be agreed by majority of peers at least thereby make discretionary decisions almost impossible.
 
-Another important aspect of decentralized systems are that they are robust and more resilient to any attack. This might be the reason of continuous survival of Bitcoin. 
+Another important aspect of decentralized systems are that they are robust and more resilient to any attack. This might be the reason of continuous survival of Bitcoin.
 
  > The main technological breakthrough accomplished by Bitcoin is solving the double spending problem in distributed financial database.
 
@@ -91,7 +91,7 @@ Another important aspect of decentralized systems are that they are robust and m
 
 > Source and compiled binaries can be downloaded from [**bitcoin.org/en/download**](https://bitcoin.org/en/download)
 
-### Wallets 
+### Wallets
 
 Bitcoin wallets is a software that helps a user manage her funds, create new addresses, holds user's private keys, create transactions that are sent to network, collect incoming and outgoing transactions, to show the balance of available funds, aggregate many accounts if user has more than one account.
 
@@ -99,7 +99,7 @@ Bitcoin wallets is a software that helps a user manage her funds, create new add
 
 ## 3. Bitcoin Economics
 
-### Pros and Cons of Bitcoin as Medium of Exchange 
+### Pros and Cons of Bitcoin as Medium of Exchange
 
 * Bitcoin users are **not at risk of security breaches** as long as they keep their private key safe but critics argue that web wallets and exchanges are equally prone to security breaches.
 * Bitcoin's transaction **fees are lower** than credit cards' fees.
@@ -114,7 +114,7 @@ Bitcoin wallets is a software that helps a user manage her funds, create new add
 
 > It is believed that most of bitcoins are possessed by early adopters in dormant accounts as Investment.
 
-### Bitcoin as Investment 
+### Bitcoin as Investment
 
 > The risk / reward profile of investing in Bitcoin resembles an investment in high risk startup more than an investment in stable store value.
 
@@ -135,17 +135,17 @@ Some possible scenarios under which Bitcoin may fail:
 * Bitcoin provides **automatic record keeping.**
 * Bitcoin is **deflationary**.
 
-### Cons 
+### Cons
 
 * Bitcoin is open source therefore it can be replicated easily and legally thereby creating a competition in many cryptocurrencies.
 * Critics argue that Bitcoin cannot be used as a store of value because of its volatility.
-* There is no control over the money supply. 
+* There is no control over the money supply.
 * Cryptocurrencies do not have legal tender status.
 * Governments could ban the use of cryptocurrencies.
 * Bitcoins have no physical backing.
 * In contrast to bank deposits, there is no deposit insurance for Bitcoin users.
 
-### Deflation 
+### Deflation
 
 * The path of monetary supply of new bitcoins is programmed into Bitcoin’s source code.The maximum number of bitcoins issued will eventually reach approximately 21 million. This fixed money supply makes it deflationary.
 * Furthermore, bitcoins are withdrawn from circulation due to their owners losing the private keys. As of the time of writing, an estimated 4% of bitcoins in circulation have been lost.
@@ -157,25 +157,3 @@ Some possible scenarios under which Bitcoin may fail:
 * Web Wallets
 * Mining
 * Bitcoin ATMs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
