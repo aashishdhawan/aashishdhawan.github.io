@@ -5,11 +5,6 @@ categories: blog
 share: true
 comment: true
 tags: [Bitcoin]
-image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-
 ---
 
 Last week i came across a book [**Understanding Bitcoin** by Pedro Franco](http://www.amazon.in/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168). This post shares that knowledge and is intended for those people who want to understand Bitcoin better.
