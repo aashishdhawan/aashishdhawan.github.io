@@ -30,7 +30,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Aashish Dhawan
   avatar: omega.png
-  email: aashishdhawan@email.com
+  email: aashishdhawan@gmail.com
   disqus-shortname:
   twitter: aashish_dhawan
   facebook: aashish.dhawan.33
@@ -45,5 +45,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
