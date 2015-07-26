@@ -19,4 +19,12 @@ I think that for someone early in their career as a programmer, Goodliffe's "Bec
 2. [IT ebooks](http://it-ebooks.info/book/4368/)
 3. [Quick Presentation](/resources/BecomingBetterProgrammer.pdf)
 
-{: .notice}
+## Clean Code
+
+It's really good book for developer, after reading i can say i improved my coding standard. Good coding concepts.
+
+#### Book
+
+1. [Amazon](http://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=sr_1_4?ie=UTF8&qid=1437887354&sr=8-4&keywords=code+complete)
+2. [IT ebooks](http://www.it-ebooks.info/book/1441/)
+3. [Quick Presentation](/blog/Art-of-Clean-Code/)
