@@ -6,8 +6,17 @@
 - title: Articles
   url: /articles/
 
+- title: Bits
+  url: /bits/
+
 - title: Blog
   url: /blog/
+
+- title: Books
+  url: /books/
+
+- title: Book Reviews
+  url: /reviews/
 
 - title: Resume
   url: /resources/AashishDhawanResume.pdf
