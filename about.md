@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Aashish
+title: Aashish Dhawan
 permalink: /about/
 ---
 
