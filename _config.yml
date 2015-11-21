@@ -4,7 +4,7 @@ email:       aashishdhawan@gmail.com
 author:      Aashish Dhawan
 description: "iOS."
 baseurl:     ""
-url:         "http://aashishdhawan.github.io/"
+url:         "http://aashishdhawan.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
