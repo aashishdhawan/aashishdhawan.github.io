@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Refactoring"
+title:  "The Art of Code Refactoring"
 date:   2015-09-13 11:11:11
 author: aashish
 categories: Technical Android
