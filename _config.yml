@@ -12,15 +12,15 @@ google_analytics:
 google_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
-ajaxify_contact_form: false
+animated:             true
+show_related_posts:   true
+show_post_footers:    true
+show_social_icons:    true
+ajaxify_contact_form: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: aashish_dhawan
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
