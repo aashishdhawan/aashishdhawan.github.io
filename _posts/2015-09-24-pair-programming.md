@@ -4,6 +4,7 @@ title:  "Strengthening the Case for Pair Programming"
 date:   2015-09-24 11:11:11
 author: aashish
 categories: Technical Android
+permalink: short-urls-jekyll
 ---
 
  Although the argument of pair programming is very old and various studies has been published about it both in favour and against pair programming but the arguments and results of various experiments are in favour of pair programming to such an extent that almost every development team adopts this in their software development strategy and so do we.
