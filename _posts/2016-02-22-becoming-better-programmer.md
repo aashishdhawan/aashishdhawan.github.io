@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Becoming a Better Programmer"
-date:   2016-02-23 11:11:11
+date:   2016-02-22 11:11:11
 author: aashish
 categories: Technical iOS
 ---
