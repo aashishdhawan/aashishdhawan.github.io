@@ -35,3 +35,11 @@ Fourth book of this year. This is a collection of short stories by Gulzar. Not i
 [**Becoming a Better Programmer**](http://www.amazon.in/Becoming-Better-Programmer-Pete-Goodliffe/dp/1491905530)
 
 This is one good book and i would like to recommend to fellow developers specially beginners. This is undoubtably the best investment you can make early in your career. Although there are many great books in this segment but i specially loved this one because it never let you bore for a moment.
+
+[**Bash Pocket Reference**](http://www.amazon.in/Bash-Pocket-Reference-OReilly/dp/1449387888)
+
+This is a small book which you can cover over weekend. I feel this can supercharge your development cycle. Worthy investment. Recommended.
+
+[**The Ruby Programming Language**](http://www.amazon.in/Ruby-Programming-Language-Davd-Flanagan/dp/0596516177)
+
+I was looking to add secondary skill and i narrowed down to Ruby because i was impressed by scripts written by iOS development community to help them. I feel this is a good book for beginner. Recommended.
