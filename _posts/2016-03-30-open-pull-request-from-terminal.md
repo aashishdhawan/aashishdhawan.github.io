@@ -14,4 +14,4 @@ Save the following script in `/usr/local/bin/` with a name `git-open-pr` and giv
 
 When you are done with your feature, Push it and type `git open-pr` and see the magic yourself.
 
-You can find the gif [here](http://aashishdhawan.github.io/images/Demo_gif_open-pr.gif)
+You can find the gif [here](http://aashishdhawan.github.io/images/Demo_gif_open_pr.gif)
