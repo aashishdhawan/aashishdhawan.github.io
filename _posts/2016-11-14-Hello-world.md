@@ -1,11 +1,5 @@
 ---
-title: "Edge Case: No Body Content"
-categories:
-  - Edge Case
-tags:
-  - content
-  - edge case
-  - layout
+title: "Hello World"
 crosspost_to_medium: true
 ---
 
