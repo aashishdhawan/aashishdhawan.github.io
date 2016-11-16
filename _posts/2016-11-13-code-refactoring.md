@@ -2,7 +2,8 @@
 title:  "Code Refactoring"
 date:   2016-11-13 11:11:11
 author: Aashish Dhawan
-categories: Technical
+categories:
+  - Technical
 ---
 
 No one can argue about the importance of good code architecture and clean code. Every good programmer or a team of experienced developers gives special attention to these as they understand how much effect this has on product quality and their productivity.
