@@ -19,7 +19,10 @@ As the time passed and we delivered initial builds to client they came up with c
 
 In project retrospective we also found that we were being overly obsessed with code coverage and the percentage __code coverage was being considered as a parameter to judge code quality.__ We also figured out the we could have done fairly well if we skipped few parts of the code. Also we had decent __QA force available__ to us which could quickly test the new changes.
 
-Here are the lesson we learned from this project:
+And as the time progressed who found developers were writing less and less Unit test and the situation deteriorated to such a level the they stopped writing Unit Tests.
+
+We did spend some time in project retrospective on this problem and here
+are the lesson we learned from this project:
 
 ## 1. Do not be obsessed with 100% code coverage.
 
@@ -41,6 +44,8 @@ We find date related cases too frequently where you can only test it on specific
 
 ## 5. Do not abandon test cases because it is a piece of code too.
 
-After Unit test is also a code which needs maintenance. If left unintended it will do more harm than good. So whenever you think writing Unit Tests is not in your interest, just think about your strategy and plan again.
+After all, Unit test is also a code which needs maintenance. If left unintended it will do more harm than good. So whenever you think writing Unit Tests is not in your interest, just think about your strategy and plan again.
+
+Unit testing is really a powerful tool, but using it properly is also very important.
 
 Happy Coding!
