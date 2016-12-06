@@ -1,7 +1,13 @@
 ---
-library: single
-title: About me
+layout: single
+author_profile: true
+read_time: true
 comments: true
+share: true
+related: true
+title: "About me"
+comments: true
+permalink: /about/
 ---
 
 I am Aashish Dhawan, iOS Developer currently working as freelance iOS Engineer. Even though I studied as Electronics and Telecommunication Engineer I became interested in mobile development back in 2011 and I’ve been doing that since then. I’ve worked for companies like [ChaiOne](https://chaione.com) and [moldedbits](http://moldedbits.com). I also played an important role in developing iOS SDK for [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-AppIterate/).

@@ -141,6 +141,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-crosspost-to-medium
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
