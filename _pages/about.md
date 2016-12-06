@@ -12,7 +12,7 @@ permalink: /about/
 
 I am Aashish Dhawan, iOS Developer currently working as freelance iOS Engineer. Even though I studied as Electronics and Telecommunication Engineer I became interested in mobile development back in 2011 and I’ve been doing that since then. I’ve worked for companies like [ChaiOne](https://chaione.com) and [moldedbits](http://moldedbits.com). I also played an important role in developing iOS SDK for [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-AppIterate/).
 
-I am using this plaform to share what i learn about mobility and software development. I have interests in reading/writing and photography.
+I am using this platform to share what i learn about mobility and software development. I have interests in reading/writing and photography.
 
 ## Skills
 
@@ -23,7 +23,7 @@ I am using this plaform to share what i learn about mobility and software develo
 - **CocoaPods/Carthage** experience to setup different build configurations and integration with libraries/frameworks
 - **Strong layout experience**, I like to use Storyboards.
 - **Mobile Architectures** for scalable and modular apps.
-- **Release processes** using versioning tools, taging, branch management, fastlane, continuous delivery.
+- **Release processes** using versioning tools, tagging, branch management, fastlane, continuous delivery.
 
 **Other Skills**
 
