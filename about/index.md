@@ -1,9 +1,10 @@
 ---
+library: single
 title: About me
 comments: true
 ---
 
-I am Aashish Dhawan, iOS Developer currently working as freelance iOS Engineer. Even though I studied as Electronics and Telecommunication Engineer I became interested in mobile development back in 2011 and I’ve been doing that since then. I’ve worked for companies like [ChaiOne](https://chaione.com) and [moldedbits](http://moldedbits.com). I also played an important role in developing iOS SDK for [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-appiterate/).
+I am Aashish Dhawan, iOS Developer currently working as freelance iOS Engineer. Even though I studied as Electronics and Telecommunication Engineer I became interested in mobile development back in 2011 and I’ve been doing that since then. I’ve worked for companies like [ChaiOne](https://chaione.com) and [moldedbits](http://moldedbits.com). I also played an important role in developing iOS SDK for [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-AppIterate/).
 
 I am using this plaform to share what i learn about mobility and software development. I have interests in reading/writing and photography.
 
@@ -21,7 +22,7 @@ I am using this plaform to share what i learn about mobility and software develo
 **Other Skills**
 
 - Experience in **Android**, i have around 1 year experience in Android. Although i am not a full time Android developer but i am fairly comfortable with Android world.
-- **Ruby on Rails**: A bit of experience in RoR which comes handly while working with Ruby gems and RESTful APIs built with RoR.
+- **Ruby on Rails**: A bit of experience in RoR which comes handy while working with Ruby gems and RESTful APIs built with RoR.
 
 **Played With**
 
@@ -34,12 +35,12 @@ I am using this plaform to share what i learn about mobility and software develo
 ## Work experience
 
 ### [DSYN Media](https://yourstory.com/2013/05/startup-dsyn-builds-products-at-the-convergence-of-design-and-technology/)
-I started with DSYN Media back in 2011 fresh out of the college. It was Mobility service provider. I learned a lot here and it built a great base for me to advance my career. I improved my knowledge on areas like data persistance, API interactions, Core Data, mobile architectures, Objective-C patterns. Moreover I had the opportunity to develop for the Android team too which for me was a good chance to dive into the Android development.
+I started with DSYN Media back in 2011 fresh out of the college. It was Mobility service provider. I learned a lot here and it built a great base for me to advance my career. I improved my knowledge on areas like data storage, API interactions, Core Data, mobile architectures, Objective-C patterns. Moreover I had the opportunity to develop for the Android team too which for me was a good chance to dive into the Android development.
 
 
 
-### [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-appiterate/)
-Appiterate was incubated as a product within DSYN which started out as a services firm. Appiterate was launched as an A/B testing tool for mobiles. A/B testing is a methodology to test out two variants and experiment to find out which version works better with the audience. With the world moving towards mobile, it was becoming critical to have this functionality for mobile. I built iOS SDK single handidly for Appiterate.
+### [AppIterate](https://yourstory.com/2015/04/flipkart-acquires-Appiterate/)
+AppIterate was incubated as a product within DSYN which started out as a services firm. AppIterate was launched as an A/B testing tool for mobiles. A/B testing is a methodology to test out two variants and experiment to find out which version works better with the audience. With the world moving towards mobile, it was becoming critical to have this functionality for mobile. I built iOS SDK single handily for AppIterate.
 
 ### [ChaiOne](https://chaione.com)
 Headquartered in Houston, TX, ChaiONE is an Enterprise Mobility Agency with a specific focus on the energy industry.
