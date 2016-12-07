@@ -242,9 +242,29 @@ defaults:
       comments: true
       share: true
       related: true
+ # _pets
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: photography
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 # Collections
 collections:
+  books:
+    output: true
+    permalink: /:collection/:path/
   photography:
     output: true
     permalink: /:collection/:path/
