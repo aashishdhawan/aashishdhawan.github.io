@@ -1,5 +1,5 @@
 ---
-title:  "Book Review: How Internet works."
+title:  "Book Review: How Internet works AND The Internet book."
 date:   2016-12-28 12:00:00
 author: Aashish Dhawan
 excerpt: "How Internet works by Preston Gralla."
