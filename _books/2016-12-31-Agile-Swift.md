@@ -18,4 +18,7 @@ Now if that was the idea behind writing this book, i think it is somewhat succes
 
 Now if you have not heard about above mentioned frameworks and tools then i would suggest please go read it as each one of these is too important to be ignored. Also book is too small and can be finished within 2 hours if you are only looking for introduction to various tools described.
 
+Since this book did not offer much, i skimmed through another one Swift Essential by Dr. Alex Blewitt, but to my disappointment this was too for beginner, finished in 15 minutes. Looks like i need to be careful in choosing good ones. For now i know avoid books from every other publisher. As they say start with best books first because you will never have enough time to read them all.
+
+
 Happy Coding.
