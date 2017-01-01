@@ -9,7 +9,7 @@ categories:
 
 Disclaimer: This is my personal opinion about this book and should be considered only that, nothing more.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/agile-swift.jpg){: .align-left} I must admit, i am not a fan of Apress publication and i always tend to avoid books by them. In this particular case, i found title of this book interesting and book was small too, only 180 pages, which seduced me to read this book.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/agile-swift.png){: .align-left} I must admit, i am not a fan of Apress publication and i always tend to avoid books by them. In this particular case, i found title of this book interesting and book was small too, only 180 pages, which seduced me to read this book.
 
 Here is my review,
 
