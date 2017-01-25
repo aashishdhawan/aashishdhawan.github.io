@@ -88,7 +88,7 @@ This is fun. Now we can try custom values for control points and see how this cu
 
 Actually we can create a lot of custom curves like this
 
-<img src="http://aashishdhawan.github.io/images/all-curves.png" alt="Drawing" style="width: 200px;"/>
+<img src="http://aashishdhawan.github.io/images/all-curves.png" alt="Drawing" style="width: 600px;"/>
 
 There is a good cheat sheet available [here](http://easings.net/).
 
