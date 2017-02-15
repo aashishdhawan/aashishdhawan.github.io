@@ -61,7 +61,7 @@ Headquartered in Houston, TX, ChaiONE is an Enterprise Mobility Agency with a sp
 
 - **ImagePicker:** ImagePicker is an all-in-one camera solution for your iOS app. It let's your users select images from the library and take pictures at the same time. As a developer you get notified of all the user interactions and get the beautiful UI for free, out of the box, it's just that simple. [Link](https://github.com/hyperoslo/ImagePicker)
 - **Sugar:** Sugar is a sweetener for your Cocoa implementations. [Link](https://github.com/hyperoslo/Sugar)
-
+- **GradientKit** Makes working with Gradients super easy. [Link](https://github.com/aashishdhawan/GradientKit)
 
 <br><br>
 <a href="{{ site.url }}/assets/others/english_cv.pdf" class="btn">Get my CV</a>
